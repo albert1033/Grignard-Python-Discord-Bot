@@ -1,0 +1,14 @@
+git+https://github.com/Rapptz/discord.py
+random2==1.0.1
+akinator.py==5.0.0
+paramiko==2.9.2
+canvacord==3.4.3
+translate-api==4.9.5
+pyjokes==0.6.0
+spotipy==2.19.0
+animec==0.4
+kitsu.py==0.1.1
+py-loremipsum==1.1.0
+discord-together
+statcord.py
+jishaku
