@@ -1,4 +1,4 @@
-# Grignard
+# Grignard Python Discord bot
 Multi-purpose Discord bot. Feel free to use it, but I'd love it if you give credits.
 
 Bot is made 100% by Python with the help of Discord.py module from Rapptz (texture prefixes).
